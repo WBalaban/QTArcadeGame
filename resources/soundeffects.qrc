@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>bgmusic3.mp3</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>cannonBall.png</file>
+        <file>ghul.png</file>
+        <file>witcher.png</file>
+        <file>background.jpg</file>
+    </qresource>
+</RCC>
